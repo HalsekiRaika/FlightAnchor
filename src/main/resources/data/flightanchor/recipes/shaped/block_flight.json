@@ -1,0 +1,18 @@
+
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "IFI",
+        "FDF",
+        "IFI"
+    ],
+    "key": {
+        "I": { "item": "minecraft:iron_block" },
+        "F": { "item": "minecraft:feather" },
+        "D": { "item": "minecraft:diamond" }
+    },
+    "result": {
+        "item": "flightanchor:block_flight",
+        "count": 1
+    }
+}
